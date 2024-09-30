@@ -131,3 +131,9 @@ p{
 #contact-logo{
     gap: 50px;
 }
+
+iframe{
+    width: 100%;
+    height: 300px;
+    border: 0;
+}
